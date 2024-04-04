@@ -2,6 +2,8 @@
 
 Mileage Tracker is a simple desktop application designed to help individuals and businesses track their driving mileage for expense reporting and reimbursement. This tool allows users to input trip details, calculates mileage using the Google Maps API, and exports the data to an Excel spreadsheet for easy tracking and reporting.
 
+![Mileage Tracker Screenshot](https://i.imgur.com/AZIJI2e.png)
+
 ## Features
 
 - **Trip Logging:** Enter details about each trip, including departure and arrival addresses, odometer readings, tolls, and parking expenses.
